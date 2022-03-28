@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Alphaeinsteinium
-- 👀 I’m interested in web development/designing
-- 🌱 I’m currently learning coding (web development)
+
 
 
 <!---
