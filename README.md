@@ -6,7 +6,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Mechatronics Engineering student with a strong interest in web development. I love building beautiful, responsive web applications and exploring how software and hardware can work together. My journey blends the creativity of design with the precision of engineering.
+Hello! I’m **Osondu Favour**, a passionate FrontEnd Developer and a Mechatronics Engineering student (in training).
+
+I thrive at the intersection of engineering and technology, using my diverse background to solve complex problems and craft delightful, user-focused web experiences. With a keen eye for detail and a love for innovation, I enjoy bringing ideas to life through code and design.
+
+I’m currently sharpening my skills in JavaScript and excited to explore new technologies. Open to new opportunities, I’m eager to join a creative team of designers and developers. If you believe we’d make a great team, don’t hesitate to connect!
+
+I also enjoy networking and building meaningful relationships within the tech community.
 
 ---
 
@@ -42,9 +48,10 @@ I’m always eager to work with fellow developers, creators, and students. Wheth
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Alphaeinsteinium)
 <!-- Add your actual links below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](YOUR-LINKEDIN-HERE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)](YOUR-TWITTER-HERE)
-[![Personal Website](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](YOUR-PORTFOLIO-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](www.linkedin.com/in/favour-osondu-6b78a5216
+
+)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://x.com/engo_df?s=09)
 
 ---
 
