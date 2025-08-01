@@ -48,8 +48,9 @@ I’m always eager to work with fellow developers, creators, and students. Wheth
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Alphaeinsteinium)
 <!-- Add your actual links below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)]www.linkedin.com/in/favour-osondu-6b78a5216
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)]https://x.com/engo_df?s=09
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff) www.linkedin.com/in/favour-osondu-6b78a5216
+
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff) https://x.com/engo_df?s=09
 
 ---
 
