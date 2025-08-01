@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I’m **Osondu Favour**, a passionate FrontEnd Developer and a Mechatronics Engineering student (in training).
+I’m **Osondu Favour**, a passionate FrontEnd Developer and a Mechatronics Engineering student (in training).
 
 I thrive at the intersection of engineering and technology, using my diverse background to solve complex problems and craft delightful, user-focused web experiences. With a keen eye for detail and a love for innovation, I enjoy bringing ideas to life through code and design.
 
@@ -48,10 +48,8 @@ I’m always eager to work with fellow developers, creators, and students. Wheth
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/Alphaeinsteinium)
 <!-- Add your actual links below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)](www.linkedin.com/in/favour-osondu-6b78a5216
-
-)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://x.com/engo_df?s=09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff)]www.linkedin.com/in/favour-osondu-6b78a5216
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)]https://x.com/engo_df?s=09
 
 ---
 
@@ -61,4 +59,3 @@ I’m always eager to work with fellow developers, creators, and students. Wheth
 
 ---
 
-> _"Great things are done by a series of small things brought together."_ — Vincent Van Gogh
